@@ -1,12 +1,14 @@
 # NYC-Crime
 Data analyze and visualization of crime activities in NYC
 
-##Specification
-This project uses dataset "NYPD Arrest Data (Year to Date) from opendatanetwork.\
+## Specification
 
-https://www.opendatanetwork.com/dataset/data.cityofnewyork.us/uip8-fykc
+This project uses dataset "NYPD Arrest Data (Year to Date) from opendatanetwork.
 
-##Instruction
+<a name="custom_anchor_name">https://www.opendatanetwork.com/dataset/data.cityofnewyork.us/uip8-fykc</a>
+
+## Instruction
+
 Everything run out of the box. No need for configuration.\
 
 The nyc-crime-dataclening.ipynb file can be open using Google Colab or Jupyter-notebook.\
@@ -23,9 +25,9 @@ _ nyc-crime-dataclening.ipynb: perform datacleaning for date set.\
 
 ## Contribution
 
-This project is work of:
-Duc Tran (dt2259@nyu.edu)
-Aigerim Madakimova (am9634@nyu.edu)
+This project is work of:\
+Duc Tran (dt2259@nyu.edu)\
+Aigerim Madakimova (am9634@nyu.edu)\
 Bornita Das (bd1599@nyu.edu)
 
 ## License
