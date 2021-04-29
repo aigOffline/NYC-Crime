@@ -1,7 +1,4 @@
-# NYC-Crime
-Data analyze and visualization of crime activities in NYC
-
-## Usage
+# Clean Data Set
 _This folder contains cleaned dataset from sub-dataset.
 
 ## License
