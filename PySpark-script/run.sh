@@ -1,6 +1,6 @@
-supported_year=( 2016 2017 2018 2019 2020 )
+supported_year=( 2016 2017 2018 2019 )
 
-if [ "$1" == 2016 ] || [ "$1" == 2017 ] || [ "$1" == 2018 ] || [ "$1" == 2019 ] || [ "$1" == 2020 ]
+if [ "$1" == 2016 ] || [ "$1" == 2017 ] || [ "$1" == 2018 ] || [ "$1" == 2019 ]
 then
     spark-submit nypd-historic-extract.py /user/dt2259/nypd_arrests_historic.csv $1
     /usr/bin/hadoop fs -getmerge nypd_arrests_data_$1 ../sub-dataset/nypd_arrests_data_$1.csv 
