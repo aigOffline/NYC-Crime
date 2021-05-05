@@ -15,5 +15,9 @@ _ Must install Tableau to run.
 7. Hit Update Now button to update the data source.
 8. The visualizations should be ready now for use.
 
+## Documents
+
+_ In unfortunate case that your setup is incorrect and Tableau cannot execute the file. We have included the charts in PDF which export from original tableau files called Dashboard_1.pdf for review.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
