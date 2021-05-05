@@ -30,6 +30,10 @@ _ association_rule: contains script to analyze data using association rule with 
 
 _ Note: Each folder has detailed instruction of how to run each of them.
 
+## Documents
+
+_ All our findings and documetations can be locate in: FINAL_NYC_Crime_analysis.pdf
+
 ## Contribution
 
 This project is work of:\
