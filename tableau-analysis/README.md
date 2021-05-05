@@ -7,8 +7,8 @@ _ Must install Tableau to run.
 ## Instruction
 
 1. Download all cleaned datasets from /NYC-Crime/clean-dataset to a folder (Clean data should already exists otherwise download them).
-2. Add COVID dataset from NYC-Crime/COVID data-by-day.csv to same folder.
-3. Download and open the file tableau workbook from  NYC-Crime/NYC-Crime.twb
+2. Add COVID dataset from NYC-Crime/tableau-analysis data-by-day.csv to same folder.
+3. Download and open the file tableau workbook from  NYC-Crime/tableau-analysis/NYC-Crime.twb
 4. Update the Data Source for the workbook.
 5. Upload all NYC Crime csv files from 2016-2020 to Tableau and form a UNION on the column ARREST_KEY.
 6. Upload COVID dataset to tableau and LEFT JOIN with the UNION using columns.
