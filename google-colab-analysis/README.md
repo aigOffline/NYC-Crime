@@ -14,7 +14,7 @@ _ nyc-crime-data-analysis-2020.ipynb: contains analysis and visualization of onl
 
 _ nyc-crime-data-analysis-five-years.ipynb: contains trend of 5 years crime.
 
-- nyc-crime-data-analysis-extra.ipynb: contains small extra script for police precinct analysis.
+_ nyc-crime-data-analysis-extra.ipynb: contains small extra script for police precinct analysis.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
